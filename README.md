@@ -45,7 +45,8 @@ https://drive.google.com/drive/folders/1UqIHGKX4_W6DpEXPKOpHRXCEcCah1Rfn?usp=sha
    
 
 **What is being pracrticed**
-   
+easyocr
+layoutlm   
 
 [**⬆**](#table-of-contents) *to the contents*
 
